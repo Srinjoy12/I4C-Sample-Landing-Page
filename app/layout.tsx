@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   title: "Indian Cyber Crime Coordination Centre (I4C) | Ministry of Home Affairs",
   description:
     "Official website of the Indian Cyber Crime Coordination Centre (I4C) under the Ministry of Home Affairs, Government of India.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
